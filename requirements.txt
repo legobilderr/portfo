@@ -24,7 +24,7 @@ Pillow==8.1.1
 pycodestyle==2.6.0
 PyContracts==1.8.14
 PyInstaller==3.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pyowm==2.10.0
 pyparsing==2.4.7
